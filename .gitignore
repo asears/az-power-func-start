@@ -1,0 +1,9 @@
+# Gitignore files
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Function app default secrets
+local.settings.json
